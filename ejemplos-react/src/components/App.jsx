@@ -1,10 +1,12 @@
-import Cmp01ExpresionesYListas from './01-expresiones-y-listas/Cmp01ExpresionesYListas'
+import Cmp03Estados from "./03-estados/Cmp03Estados"
 
 const App = () => {
   return (
     <div>
       <h1>Curso de React</h1>
-      <Cmp01ExpresionesYListas />
+      {/* <Cmp01ExpresionesYListas /> */}
+      {/* <Cmp02Propiedades /> */}
+      <Cmp03Estados />
     </div>
   )
 }
