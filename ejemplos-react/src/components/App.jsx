@@ -1,4 +1,4 @@
-import Cmp04UseEffect from "./04-useEffect/Cmp04UseEffect"
+import Cmp06Children from "./06-children/Cmp06Children"
 
 const App = () => {
   return (
@@ -7,7 +7,9 @@ const App = () => {
       {/* <Cmp01ExpresionesYListas /> */}
       {/* <Cmp02Propiedades /> */}
       {/* <Cmp03Estados /> */}
-      <Cmp04UseEffect />
+      {/* <Cmp04UseEffect /> */}
+      {/* <Cmp05ContextApi /> */}
+      <Cmp06Children />
     </div>
   )
 }
