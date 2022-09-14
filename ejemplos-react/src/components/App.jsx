@@ -1,4 +1,4 @@
-import Cmp03Estados from "./03-estados/Cmp03Estados"
+import Cmp04UseEffect from "./04-useEffect/Cmp04UseEffect"
 
 const App = () => {
   return (
@@ -6,7 +6,8 @@ const App = () => {
       <h1>Curso de React</h1>
       {/* <Cmp01ExpresionesYListas /> */}
       {/* <Cmp02Propiedades /> */}
-      <Cmp03Estados />
+      {/* <Cmp03Estados /> */}
+      <Cmp04UseEffect />
     </div>
   )
 }
