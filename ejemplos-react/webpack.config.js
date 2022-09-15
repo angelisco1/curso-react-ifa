@@ -28,6 +28,10 @@ module.exports = {
         test: /\.css$/,
         exclude: /node_modules/,
         use: ['style-loader', 'css-loader']
+      },
+      {
+        test: /\.(mp4|mp3|png|jpg)$/,
+        type: 'asset/resource'
       }
     ]
   },
