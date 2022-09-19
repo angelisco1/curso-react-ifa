@@ -1,4 +1,4 @@
-import Cmp11Hoc from "./11-hoc/Cmp11Hoc"
+import Cmp12RouterYRedux from "./12-router-y-redux/Cmp12RouterYRedux"
 
 const App = () => {
   return (
@@ -14,7 +14,8 @@ const App = () => {
       {/* <Cmp08FragmentsYMemo /> */}
       {/* <Cmp09FormulariosYCustomHook /> */}
       {/* <Cmp10UseReducer /> */}
-      <Cmp11Hoc />
+      {/* <Cmp11Hoc /> */}
+      <Cmp12RouterYRedux />
     </div>
   )
 }
